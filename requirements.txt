@@ -1,0 +1,2 @@
+Works well on CPU and it is faster.
+Needs a GPU for best performance and it is Highly customizable.
